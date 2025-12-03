@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana 圖片生成器",
+  "description": "使用 Gemini 2.5 Flash Image 的 AI 圖片編輯工作室。上傳圖片並使用自然語言指令進行轉換。",
+  "requestFramePermissions": []
+}
